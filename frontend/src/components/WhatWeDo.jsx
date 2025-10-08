@@ -7,9 +7,9 @@ const services = [
     description: null,
     image: "/s1.svg",
     list: [
-      "Income Generation",
-      "Capital Preservation",
-      "Hedge Against Economic Slowdown",
+      "Earn higher returns than traditional fixed deposits",
+      "Diversify portfolio with rated corporate bonds",
+      "Trade easily in secondary markets for liquidity",
     ],
   },
   {
@@ -17,9 +17,9 @@ const services = [
     description: null,
     image: "/s2.svg",
     list: [
-      "Income Generation",
-      "Capital Preservation",
-      "Hedge Against Economic Slowdown",
+      "Backed by the sovereign guarantee of the Government of India",
+      "Ideal for risk-averse investors seeking stable returns",
+      "Access to long-term investment options with regular interest income",
     ],
   },
   {
@@ -27,9 +27,9 @@ const services = [
     description: null,
     image: "/s3.svg",
     list: [
-      "Income Generation",
-      "Capital Preservation",
-      "Hedge Against Economic Slowdown",
+      "Issued by state governments with strong credit reliability",
+      "Attractive yields compared to central government securities",
+      "Support state infrastructure and development projects while investing safely",
     ],
   },
   {
@@ -37,9 +37,9 @@ const services = [
     description: null,
     image: "/s1.svg",
     list: [
-      "Income Generation",
-      "Capital Preservation",
-      "Hedge Against Economic Slowdown",
+      "Steady and predictable income through interest payments",
+      "Capital preservation with low market volatility",
+      "Balanced portfolio diversification against equity market risks",
     ],
   },
 ];

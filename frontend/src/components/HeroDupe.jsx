@@ -22,7 +22,7 @@ const HeroDupe = () => {
       </div>
 
       {/* Right Card */}
-      <div className="absolute bottom-0 translate-y-8 right-10 z-10 w-80 rounded-md overflow-hidden">
+      {/* <div className="absolute bottom-0 translate-y-8 right-10 z-10 w-80 rounded-md overflow-hidden">
         <div className="bg-transparent backdrop-blur-xl text-white p-6">
           <p className="text-sm">Up to</p>
           <p className="text-5xl font-light">40%</p>
@@ -32,7 +32,7 @@ const HeroDupe = () => {
           Let us optimize it for you
           <span className="ml-2">→</span>
         </button>
-      </div>
+      </div> */}
     </div>
   );
 };

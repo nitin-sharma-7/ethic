@@ -13,13 +13,13 @@ const Header = () => {
       href: "/about",
       dropdown: [
         { name: "Who We Are", href: "/about" },
-        { name: "Our Team", href: "/about/team" },
-        { name: "Careers", href: "/about/careers" },
-        { name: "Testimonials", href: "/about/testimonials" },
-        { name: "Press Release", href: "/about/press-release" },
+        // { name: "Our Team", href: "/about/team" },
+        // { name: "Careers", href: "/about/careers" },
+        // { name: "Testimonials", href: "/about/testimonials" },
+        // { name: "Press Release", href: "/about/press-release" },
       ],
     },
-    { name: "Case Studies", href: "/case-studies" },
+    // { name: "Case Studies", href: "/case-studies" },
     { name: "Blog", href: "/blogs" },
     { name: "Contact", href: "/contact-us" },
   ];
@@ -29,8 +29,11 @@ const Header = () => {
       <div className="flex items-center justify-between px-8 py-4 w-full">
         {/* Logo */}
         <Link href="/">
-          <div className="text-white font-bold text-3xl cursor-pointer">
+          {/* <div className="text-white font-bold text-3xl cursor-pointer">
             <span className="text-green-400">E</span>xecor
+          </div> */}
+          <div className="w-36">
+            <img src="../Ethic Capital LOGO (1).png" alt="header logo" />
           </div>
         </Link>
 

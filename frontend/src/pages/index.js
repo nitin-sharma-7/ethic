@@ -15,11 +15,11 @@ export default function Home() {
       <WhatWeDo />
       <HeroDupe />
       <AboutUs />
-      <FocusCards />
-      <SolutionsTabs />
-      <InsightsPage />
+      {/* <FocusCards /> */}
+      {/* <SolutionsTabs /> */}
+      {/* <InsightsPage /> */}
       <ConsultationForm />
-      <Testimonials />
+      {/* <Testimonials /> */}
     </>
   );
 }
