@@ -16,7 +16,7 @@ const servicesData = [
       "Diversify portfolio with investment-grade corporate bonds",
       "Trade seamlessly in the secondary market for liquidity",
     ],
-    image: "/s1.jpg",
+    image: "/s4.jpg",
   },
   {
     id: "marketing-sales",
@@ -52,7 +52,7 @@ const servicesData = [
       "Preserves capital with lower market risk exposure",
       "Balances portfolio diversification against equity fluctuations",
     ],
-    image: "/s4.jpg",
+    image: "/s1.jpg",
   },
 ];
 
