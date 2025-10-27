@@ -29,8 +29,7 @@ const ConsultationForm = () => {
         {/* Header */}
         <div className="bg-[#0D3E3E] text-white p-4 sm:p-5 flex items-center justify-between">
           <h2 className="text-base sm:text-lg font-medium">
-            <span className="text-green-300 font-bold">E</span>xecor Schedule a
-            Free Consultation
+            <span className="text-green-300 font-bold">L</span>ets Connect !
           </h2>
           <FaPaperPlane className="text-xl sm:text-2xl" />
         </div>
