@@ -14,7 +14,7 @@ export default function Home() {
       <HeroSection />
       <WhatWeDo />
       <HeroDupe />
-      <AboutUs />
+      {/* <AboutUs /> */}
       {/* <FocusCards /> */}
       {/* <SolutionsTabs /> */}
       {/* <InsightsPage /> */}

@@ -12,37 +12,19 @@ const Footer = () => {
   return (
     <footer className="bg-[#043c3a] text-white pt-16 pb-8 px-6 mt-0 relative z-10">
       {/* Top Section */}
-      <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 text-sm">
+      <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 text-sm">
         {/* Logo + Tagline */}
-
-        <img src="../Ethic Capital LOGO (1).png" alt="logo image" />
-
-        {/* Company Links */}
-        <div>
-          <h4 className="text-gray-400 mb-2 font-medium">Company</h4>
-          <ul className="space-y-2 text-white">
-            <li>Services</li>
-            {/* <li>Case Studies</li> */}
-            <li>Blog</li>
-            <li>Contact us</li>
-          </ul>
+        <div className="flex flex-col items-start">
+          <img src="../Ethic Capital LOGO (1).png" alt="logo image" className="w-48 mb-4" />
         </div>
 
-        {/* More Links */}
-        <div>
-          <h4 className="text-gray-400 mb-2 font-medium">About</h4>
-          <ul className="space-y-2 text-white">
-            {/* <li>Team</li>
-            <li>Careers</li>
-            <li>Press Release</li> */}
-            <li>Who we are </li>
-          </ul>
-        </div>
+        {/* Empty column for spacing on smaller screens */}
+        <div className="hidden sm:block"></div>
 
         {/* Contact Info */}
         <div>
           <h4 className="text-gray-400 mb-2 font-medium">Contact</h4>
-          <p className="mb-2">P: +91 80970 72126</p>
+          {/* <p className="mb-2">P: +91 80970 72126</p> */}
           <p className="mb-4">E: bonds@ethice.in</p>
           <h4 className="mb-2 font-medium">Address</h4>
           <p>

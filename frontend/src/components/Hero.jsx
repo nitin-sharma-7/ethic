@@ -23,11 +23,11 @@ const HeroSection = () => {
             .
           </p>
 
-          <div className="flex items-center space-x-4">
+          {/* <div className="flex items-center space-x-4">
             <button className="bg-green-300 hover:bg-green-900 hover:text-white text-black font-semibold text-[15px] px-6 py-3 rounded-lg shadow-lg flex justify-between items-center gap-2 transition-all duration-300">
               Book a Free Strategy Call <FiArrowRight className="text-lg" />
             </button>
-          </div>
+          </div> */}
         </div>
 
         {/* Right (Image Section) */}
