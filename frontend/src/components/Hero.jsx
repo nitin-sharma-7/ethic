@@ -17,8 +17,7 @@ const HeroSection = () => {
             <strong className="text-green-300">NSE CBRICS</strong> registered
             participant, specializing in trading of{" "}
             <span className="text-green-400 font-semibold">
-              Corporate Bonds, Government Securities, and State Development
-              Loans
+              Corporate Bonds, Government Securities and State Development Loans
             </span>
             .
           </p>

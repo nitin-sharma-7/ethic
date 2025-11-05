@@ -18,7 +18,7 @@ const services = [
     image: "/s2.svg",
     list: [
       "Backed by the sovereign guarantee of the Government of India",
-      "Ideal for risk-averse investors seeking stable returns",
+      "Ideal for risk-averse investments seeking stable returns",
       "Access to long-term investment options with regular interest income",
     ],
   },
